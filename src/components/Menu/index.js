@@ -12,7 +12,7 @@ function Menu() {
                 <img className="Logo" src={Logo} alt="Logo da HappyFlix" />
             </a>
             
-            <Button as="a" className="ButtonLink" href="/">
+            <Button as="a" href="/">
                 + NOVO VÍDEO
             </Button>
         </nav>
